@@ -9,8 +9,8 @@ Approach:
 Train decision tree classifiers on all three datasets using logistic regression as the function to split the node, and calculate precision, recall, accuracy, and AUC-ROC curve.
 Choose one attribute and pairs of attributes at each node for the split, and report the findings.
 Read the Logit Tree paper for relevant information on this topic.
-2:
 
+2:
 Interpret the rules output from the decision tree by visualizing the tree and split criteria.
 Compare the output rules with those from regular decision trees, and make a list of observations from visualizing the splits.
 Perform this for both single-attribute and multi-attribute split models.
